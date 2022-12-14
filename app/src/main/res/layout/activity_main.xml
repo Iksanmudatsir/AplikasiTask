@@ -11,17 +11,17 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="?attr/colorPrimary"
-        app:title="Todo"
+        app:title="TodoApp"
         app:titleTextColor="@android:color/white" />
 
     <androidx.recyclerview.widget.RecyclerView
-        android:layout_below="@+id/toolbar"
         android:id="@+id/todoRv"
-        tools:itemCount="3"
-        android:padding="8dp"
-        tools:listitem="@layout/item_todo"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/toolbar"
+        android:padding="8dp"
+        tools:itemCount="3"
+        tools:listitem="@layout/item_todo" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:layout_alignParentBottom="true"
