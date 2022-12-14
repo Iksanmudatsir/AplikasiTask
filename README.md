@@ -15,5 +15,3 @@ Screenshot ToDoApp
 ![image](https://user-images.githubusercontent.com/102600760/207548633-c456f89f-eba5-4a93-a87a-6ff8800afc52.png)
 ![image](https://user-images.githubusercontent.com/102600760/207548688-0c0ea22d-3cb4-494b-9a62-aa558532a4c5.png)
 ![image](https://user-images.githubusercontent.com/102600760/207548719-c3cc051a-6472-4f50-9ed8-f03bf2710fbc.png)
-![image](https://user-images.githubusercontent.com/102600760/207548741-045942c7-3fd0-446a-b5ca-7bfc85d9a75a.png)
-
